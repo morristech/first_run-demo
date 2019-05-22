@@ -83,7 +83,7 @@ journals:
     nature: sales
     currency: USD
   CCCA:
-    name: Compte courant coop Charentes Alliance
+    name: Compte courant coop Ocealio
     nature: bank
     currency: EUR
   CCTL:
@@ -126,23 +126,25 @@ cashes:
     name: Compte CRCA
     journal: '21'
     account: banque
-    bank_name: "CR CA 17-79"
+    bank_name: "CA17"
     bank_account_holder_name: Gaec Joulin
     mode: iban                                   # Mode de saisie IBAN ou BBAN (RIB)
     country: fr                                  # Code pays de la banque
     iban: "FR7611111222223333333333391"          # Numéro IBAN du compte
   cc_coopca:
-    name: Compte courant activité Coop CA
+    name: Compte courant activité Coop Ocealio
     journal: CCCA
     account: cc_coopca
+    bank_name: "OCEALIO"
     nature: "associate_account"
     mode: "" 							#mode
     country: fr 						#code pays
     iban: "" 			#numéro IBAN du compte
   cc_cooptl:
-    name: Compte courant activité Coop TL
+    name: Compte courant activité Coop Terri Lacti
     journal: CCTL
     account: cc_cooptl
+    bank_name: "TERRILACTI"
     nature: "associate_account"
     mode: "" 							#mode
     country: fr 						#code pays
