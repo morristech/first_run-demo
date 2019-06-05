@@ -20,3 +20,5 @@ intervention id;Campagne;Date début;Heure début;durée (heures);procedure;desc
 19;2017;25/03/2017;09:00:00;3;organic_fertilizing;Fertilisation organique ORGABIO;ZC27;;triticum_aestivum;DJ;TRAC_745,SPREADER_TRAILER;ORGABIO_2018;700;kilogram;hectare;;;;;;;;
 20;2017;27/07/2017;09:00:00;3;superficial_plowing;Cover crop;ZC27;;triticum_aestivum;DJ;TRAC_745, PLOW_05;;;;;;;;;;;;
 21;2017;24/07/2017;09:00:00;3;harvesting;Recolte;ZC27;;triticum_aestivum;DJ;CLAAS_98_SL;WHEAT_GRAIN_2018;74;quintal;hectare;;;;;;;;
+22;2017;25/10/2016;09:00:00;3;sowing_without_plant_output;Semis 60 dose amistar;ZC30;winter_barley_crop;hordeum_hexastichum;DJ;TRAC_533, SEM_01;BARLEY_SEED_AMISTAR_2016;145;kilogram;hectare;;;;;;;;
+23;2017;30/06/2017;09:00:00;3;harvesting;Recolte;ZC30;;hordeum_hexastichum;DJ;CLAAS_98_SL;BARLEY_GRAIN_2017;55;quintal;hectare;;;;;;;;
